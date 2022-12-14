@@ -1,0 +1,563 @@
+[
+  {
+    "id": 1,
+    "writer": "kupala",
+    "dob": "07.07.1882 - 28.06.1942",
+    "mainimg": "/pictures/KupalaMain.jpg",
+    "ytlink": "https://www.youtube.com/embed/9FZehV2qJTk",
+    "galleryList": [
+      "/pictures/kupalaGallery/1.jpg",
+      "/pictures/kupalaGallery/2.jpg",
+      "/pictures/kupalaGallery/3.jpg",
+      "/pictures/kupalaGallery/4.jpg",
+      "/pictures/kupalaGallery/5.jpg"
+    ],
+    "PlaceLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d94163.82319491048!2d27.523329171972176!3d53.8847207981807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e1!3m2!1sru!2sby!4v1669968064361!5m2!1sru!2sby",
+    "ru": {
+      "title": "Янка Купала (Иван Доминикович Луцевич)",
+      "image": "KupalaMain",
+      "histories": [
+        {
+          "firstTitle": "День рождения писателя",
+          "seconsTitle": "",
+          "eventDate": "07.07.1882",
+          "paragraph": "Родился в белорусской католической семье Доминика Онуфриевича Луцевича и Бенигны Ивановны Луцевич (урождённой Волосевич)."
+        },
+        {
+          "firstTitle": "Первые публикации",
+          "seconsTitle": "",
+          "eventDate": "1903 - 1904",
+          "paragraph": "Первые произведения Купалы — несколько лирических стихотворений на польском языке, опубликованы в 1903—1904 годах в журнале «Ziarno» («Зерно») под псевдонимом «К-а». Первое стихотворение на белорусском языке — «Мая доля» датируется 15 июля 1904 года."
+        },
+        {
+          "firstTitle": "Учёба писателя",
+          "seconsTitle": "",
+          "eventDate": "1909 - 1915",
+          "paragraph": "В 1909—1913 годах начинающий поэт учился в Санкт-Петербурге на подготовительных общеобразовательных курсах А. Черняева, затем в 1915 году проучился в Московском городском народном университете имени А. Л. Шанявского."
+        },
+        {
+          "firstTitle": "Мобилизация",
+          "seconsTitle": "",
+          "eventDate": "1916",
+          "paragraph": "В начале 1916 года поэта-студента призвали в армию и тот поступил в дорожно-строительный отряд, в составе которого работал вплоть до наступления событий Октябрьской революции."
+        },
+        {
+          "firstTitle": "Послевоенное творчество",
+          "seconsTitle": "",
+          "eventDate": "1922 - 1940",
+          "paragraph": "На протяжении двух следующих десятилетий (вплоть до наступления Великой Отечественной войны) вышли в свет следующие лирические сборники: «Наследство» (1922), «Безымянное» (1925), «Песня строительству» (1936), «Белоруссии орденоносной» (1937), «От сердца» (1940), поэмы «Над рекой Орессой» (1933), «Тарасова доля» (1939) и некоторые другие."
+        },
+        {
+          "firstTitle": "Смерть",
+          "seconsTitle": "",
+          "eventDate": "28.06.1942",
+          "paragraph": "Янка Купала скончался 28 июня 1942 года в гостинице «Москва», упав в лестничный пролёт между 9-м и 10-м этажами гостиницы, смерть была мгновенной."
+        }
+      ]
+    },
+    "en": {
+      "title": "Yanka Kupala (Ivan Dominikovich Lutsevich)",
+      "image": "KupalaMain",
+      "histories": [
+        {
+          "firstTitle": "Birth",
+          "seconsTitle": "",
+          "eventDate": "07.07.1882",
+          "paragraph": "Born in the belarusian catholic family of Dominik Onufrievich Lutsevich and Benigna Ivanovna Lutsevich (nee Volosevich)."
+        },
+        {
+          "firstTitle": "First publications",
+          "seconsTitle": "",
+          "eventDate": "1903 - 1904",
+          "paragraph": "Kupala's first works are several lyrical poems in Polish, published in 1903-1904 in the magazine \"Ziarno\" (\"Grain\") under the pseudonym \"K-a\". The first poem in the Belarusian language — \"May share\" is dated July 15, 1904."
+        },
+        {
+          "firstTitle": "Writer's studying",
+          "seconsTitle": "",
+          "eventDate": "1909 - 1915",
+          "paragraph": "In 1909-1913 the aspiring poet studied in St. Petersburg at the preparatory general education courses of A. Chernyaev, then in 1915 he studied at the Moscow city university named after A. L. Shanyavsky."
+        },
+        {
+          "firstTitle": "Mobilization",
+          "seconsTitle": "",
+          "eventDate": "1916",
+          "paragraph": "At the beginning of 1916, the poet-student was drafted into the army and he entered the road construction squad, in which he worked until the events of the October Revolution."
+        },
+        {
+          "firstTitle": "Post-war creativity",
+          "seconsTitle": "",
+          "eventDate": "1922 - 1940",
+          "paragraph": "Over the next two decades (up to the onset of the Great Patriotic war), the following lyrical collections were published: \"Inheritance\" (1922), \"Nameless\" (1925), \"Song of Construction\" (1936), \"Order-bearing Belarus\" (1937), \"From the Heart\" (1940), poems \"Over the Oressa River\" (1933), \"Tarasov's Share\" (1939) and some others."
+        },
+        {
+          "firstTitle": "Death",
+          "seconsTitle": "",
+          "eventDate": "28.06.1942",
+          "paragraph": "Yanka Kupala died on June 28, 1942 in the hotel \"Moscow\", falling into a flight of stairs between the 9th and 10th floors of the hotel, death was instantaneous."
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "writer": "kolas",
+    "dob": "22.10.1882 - 13.08.1956",
+    "mainimg": "/pictures/KolasMain.jpg",
+    "ytlink": "https://www.youtube.com/embed/RoYHoXa5y8Y",
+    "galleryList": [
+      "/pictures/kolasGallery/1.jpg",
+      "/pictures/kolasGallery/2.jpg",
+      "/pictures/kolasGallery/3.jpg",
+      "/pictures/kolasGallery/4.jpg",
+      "/pictures/kolasGallery/5.jpg"
+    ],
+    "PlaceLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d94163.82319491048!2d27.523329171972176!3d53.8847207981807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e1!3m2!1sru!2sby!4v1669968064361!5m2!1sru!2sby",
+    "ru": {
+      "title": "Якуб Колас (Константин Михайлович Мицкевич)",
+      "image": "KolasMain",
+      "histories": [
+        {
+          "eventDate": "22.10.1882",
+          "firstTitle": "День рождения писателя",
+          "seconsTitle": "",
+          "paragraph": "Родился 22 октября (3 ноября) 1882 года в деревне Акинчицы (теперь территория города Столбцы Столбцовского района Минской области Белоруссии), в православной семье лесника Михаила Казимировича (Михася) Мицкевича и домохозяйки Анны Юрьевны Лесик. Предки по отцовской линии — католики."
+        },
+        {
+          "firstTitle": "Первое творчество",
+          "seconsTitle": "",
+          "eventDate": "1908 - 1914",
+          "paragraph": "В 1912—1914 годах учительствовал в Пинске. Здесь в 1914 году у него родился его старший сын Даниил, который впоследствии стал создателем и первым директором музея своего отца. В 1917 родился его средний сын — Юрий Константинович Мицкевич, а в 1926 младший сын — Михаил Константинович (Михась) Мицкевич. После демобилизации (1918) работал учителем в городе Обоянь."
+        },
+        {
+          "firstTitle": "Учительская деятельность",
+          "seconsTitle": "",
+          "eventDate": "1912 - 1918",
+          "paragraph": "В мае 1921 года переехал в Минск. В дальнейшем занимался творческой и научной деятельностью."
+        },
+        {
+          "firstTitle": "Место деятельности",
+          "seconsTitle": "",
+          "eventDate": "05.1921",
+          "paragraph": "До Октябрьской революции вышли сборники стихов «Песни неволи» (1908), «Песни печали» (1910), отдельные главы эпической поэмы «Новая зямля», а также сборники прозы «Рассказы» (1912), «Родные образы» (1914)."
+        },
+        {
+          "firstTitle": "Смерть",
+          "seconsTitle": "",
+          "eventDate": "13.08.1956",
+          "paragraph": "В конце жизни часто болел, в частности, перенёс 26 воспалений лёгких. Скончался 13 августа 1956 года. Похоронен на Военном кладбище в Минске."
+        }
+      ]
+    },
+    "en": {
+      "title": "Yakub Kolas (Konstantin Mikhailovich Mickiewicz)",
+      "image": "KolasMain",
+      "histories": [
+        {
+          "eventDate": "22.10.1882",
+          "firstTitle": "Birth",
+          "seconsTitle": "",
+          "paragraph": "Born on October 22 (November 3), 1882 in the village Akinchitsy (now the territory of the city of Stolbtsy, Stolbtsovsky district, Minsk region of Belarus), in the orthodox family of forester Mikhail Kazimirovich (Mihasya) Mickiewicz and housewife Anna Yurievna Lesik. My paternal ancestors are Catholics."
+        },
+        {
+          "firstTitle": "The first creativity",
+          "seconsTitle": "",
+          "eventDate": "1908 - 1914",
+          "paragraph": "In 1912-1914 he taught in Pinsk. Here in 1914 his eldest son Daniel was born to him, who later became the creator and first director of his father's museum. In 1917, his middle son Yuri Konstantinovich Mitskevich was born, and in 1926 the youngest son, Mikhail Konstantinovich (Mikhas) Mickiewicz. After demobilization (1918) he worked as a teacher in the city of Oboyan."
+        },
+        {
+          "firstTitle": "Teaching activities",
+          "seconsTitle": "",
+          "eventDate": "1912 - 1918",
+          "paragraph": "In May 1921 he moved to Minsk. In the future, he was engaged in creative and scientific activities."
+        },
+        {
+          "firstTitle": "Place of activity",
+          "seconsTitle": "",
+          "eventDate": "05.1921",
+          "paragraph": "Before the October Revolution, the collections of poems \"Songs of bondage\" (1908), \"Songs of sorrow\" (1910), separate chapters of the epic poem \"Novaya Zyamlya\", as well as collections of prose \"Stories\" (1912), \"Native Images\" (1914) were published."
+        },
+        {
+          "firstTitle": "Death",
+          "seconsTitle": "",
+          "eventDate": "13.08.1956",
+          "paragraph": "At the end of his life, he was often ill, in particular, he suffered 26 pneumonia. He died on August 13, 1956. He was buried at the Military graveyard in Minsk."
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "writer": "tank",
+    "dob": "04.09.1912 - 07.08.1995",
+    "mainimg": "/pictures/TankMain.jpg",
+    "ytlink": "https://www.youtube.com/embed/3Rt8eu_sdN0",
+    "galleryList": [
+      "/pictures/tankGallery/1.jpg",
+      "/pictures/tankGallery/2.jpg",
+      "/pictures/tankGallery/3.jpg",
+      "/pictures/tankGallery/4.jpg",
+      "/pictures/tankGallery/5.jpg"
+    ],
+    "PlaceLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184632.2278305333!2d25.1129524375164!3d54.700802087264194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd93fb5c6408f5%3A0x400d18c70e9dc40!2z0JLQuNC70YzQvdGO0YEsINCS0LjQu9GM0L3RjtGB0YHQutC-0LUg0LPQvtGA0L7QtNGB0LrQvtC1INGB0LDQvNC-0YPQv9GA0LDQstC70LXQvdC40LUsINCb0LjRgtCy0LA!5e1!3m2!1sru!2sby!4v1669970896912!5m2!1sru!2sby",
+    "ru": {
+      "title": "Максим Танк (Евгений Иванович Скурко)",
+      "image": "TankMain",
+      "histories": [
+        {
+          "eventDate": "04.09.1912",
+          "firstTitle": "День рождения писателя",
+          "seconsTitle": "",
+          "paragraph": "Родился (17) сентября 1912 года в селе Пильковщина (ныне Мядельского района Минской области Беларуси) в крестьянской семье."
+        },
+        {
+          "firstTitle": "Учёба",
+          "seconsTitle": "",
+          "eventDate": "1929",
+          "paragraph": "В 1929 году поступил в Виленскую гимназию имени А. Пушкина."
+        },
+        {
+          "firstTitle": "Первое творчество",
+          "seconsTitle": "",
+          "eventDate": "1936",
+          "paragraph": "Первый поэтический сборник — «На этапах» (Вильно) — вышел в 1936 году. В ранних книгах поэт выступает певцом борьбы белорусского народа за национальное освобождение."
+        },
+        {
+          "firstTitle": "Авторская деятельность",
+          "seconsTitle": "",
+          "eventDate": "1940 - 1966",
+          "paragraph": "После воссоединения Западной Беларуси и Белорусской ССР Максим Танк являлся корреспондентом в газете «Вилейская правда». В 1940 году принят в СП СССР. В годы Великой Отечественной войны продолжал работать во фронтовой печати. В 1945—1948 годы Максим Танк являлся редактором в юмористическом журнале «Вожык». В 1948—1966 годы — главный редактор белорусского литературного журнала «Полымя»."
+        },
+        {
+          "firstTitle": "Политическая деятельность",
+          "seconsTitle": "",
+          "eventDate": "1965 - 1972",
+          "paragraph": "Председатель ВС БССР (1965—1971). Депутат Верховного Совета СССР с 1969 года. Академик АН Белорусской ССР с 1972 года."
+        },
+        {
+          "firstTitle": "Смерть",
+          "seconsTitle": "",
+          "eventDate": "07.08.1995",
+          "paragraph": "Максим Танк умер в Минске 7 августа 1995 года. Похоронен в родном селе."
+        }
+      ]
+    },
+    "en": {
+      "title": "Maxim Tank (Evgeny Ivanovich Skurko)",
+      "image": "TankMain",
+      "histories": [
+        {
+          "eventDate": "04.09.1912",
+          "firstTitle": "Birth",
+          "seconsTitle": "",
+          "paragraph": "He was born (17) September 1912 in the village of Pilkovschina (now Myadel district, Minsk region of Belarus) in a peasant family."
+        },
+        {
+          "firstTitle": "Study",
+          "seconsTitle": "",
+          "eventDate": "1929",
+          "paragraph": "In 1929 he entered the Vilna Gymnasium named after A. Pushkin."
+        },
+        {
+          "firstTitle": "The first creativity",
+          "seconsTitle": "",
+          "eventDate": "1936",
+          "paragraph": "The first poetry collection — \"On the Stages\" (Vilna) — was published in 1936. In the early books, the poet acts as a singer of the struggle of the Belarusian people for national liberation."
+        },
+        {
+          "firstTitle": "Author's activity",
+          "seconsTitle": "",
+          "eventDate": "1940 - 1966",
+          "paragraph": "After the reunification of Western Belarus and the Belarusian SSR, Maxim Tank was a correspondent in the newspaper \"Vileyskaya Pravda\". In 1940, he was admitted to the JV of the USSR. During the Great Patriotic war, he continued to work in the frontline press. In 1945-1948 Maxim Tank was an editor in the humorous magazine \"Vozhyk\". In 1948- 1966 — editor-in-chief of the Belarusian literary magazine \"Polumya\"."
+        },
+        {
+          "firstTitle": "Political activity",
+          "seconsTitle": "",
+          "eventDate": "1965 - 1972",
+          "paragraph": "Chairman of the Supreme Soviet of the BSSR (1965-1971). Deputy of the Supreme Soviet of the USSR since 1969. Academician of the Academy of Sciences of the Belarusian SSR since 1972."
+        },
+        {
+          "firstTitle": "Death",
+          "seconsTitle": "",
+          "eventDate": "07.08.1995",
+          "paragraph": "Maxim Tank died in Minsk on August 7, 1995. He was buried in his native village."
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "writer": "korotkevich",
+    "dob": "26.11.1930 - 25.07.1984",
+    "mainimg": "/pictures/KorotkevichMain.jpg",
+    "ytlink": "https://www.youtube.com/embed/SWRk1_Y6m5w",
+    "galleryList": [
+      "/pictures/korotkevichGallery/1.jpg",
+      "/pictures/korotkevichGallery/2.jpg",
+      "/pictures/korotkevichGallery/3.jpg",
+      "/pictures/korotkevichGallery/4.jpg",
+      "/pictures/korotkevichGallery/5.jpg"
+    ],
+    "PlaceLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1726.1680843709175!2d30.43633443725889!3d54.51451144350051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46cfe17e6225f789%3A0x157a89110f221bea!2z0JPQvtGA0L7QtNGB0LrQvtC5INGA0L7QtNC40LvRjNC90YvQuSDQtNC-0Lw!5e1!3m2!1sru!2sby!4v1669974801968!5m2!1sru!2sby",
+    "ru": {
+      "title": "Владимир Семёнович Короткевич",
+      "image": "KorotkevichMain",
+      "histories": [
+        {
+          "eventDate": "26.11.1930",
+          "firstTitle": "День рождения писателя",
+          "seconsTitle": "",
+          "paragraph": "Родился Владимир 26 ноября 1930 года в городе Орше (ныне в Витебская область, Белоруссия) в семье интеллигентов. Отец, Семён Тимофеевич, работал инспектором по бюджету в Оршанском районном финансовом отделе. Мать, Надежда Васильевна, окончила могилёвскую Мариинскую гимназию, некоторое время работала учительницей в сельской школе под Рогачёвом, после замужества занялась домашним хозяйством."
+        },
+        {
+          "firstTitle": "Период ВОВ",
+          "seconsTitle": "",
+          "eventDate": "1941 - 1944",
+          "paragraph": "Во время Великой Отечественной войны находился с семьёй в эвакуации в Москве, на Рязанщине, в окрестностях Кунгура на Урале, позже в Оренбурге и Киеве. В 1944 году вернулся в Оршу, где получил среднее образование."
+        },
+        {
+          "firstTitle": "Творческий дебют",
+          "seconsTitle": "",
+          "eventDate": "1951",
+          "paragraph": "Как поэт дебютировал в 1951 году — опубликовал в оршанской районной газете «Ленинский призыв» два стихотворения: «Тут будет канал» (на русском языке) и «Якубу Коласу» (на белорусском языке)."
+        },
+        {
+          "firstTitle": "Трудовая деятельность",
+          "seconsTitle": "",
+          "eventDate": "1954 - 1958",
+          "paragraph": "В 1954—1956 годах работал школьным учителем русского языка и литературы в деревне Лесовичи (Таращанский район Киевской области Украины), а в 1956—1958 годах — в родном городе, Орше."
+        },
+        {
+          "firstTitle": "Смерть",
+          "seconsTitle": "",
+          "eventDate": "25.07.1984",
+          "paragraph": "Скончался Владимир Короткевич 25 июля 1984 года. Похоронен на Восточном кладбище в Минске."
+        }
+      ]
+    },
+    "en": {
+      "title": "Vladimir Semyonovich Korotkevich",
+      "image": "KorotkevichMain",
+      "histories": [
+        {
+          "eventDate": "26.11.1930",
+          "firstTitle": "Birth",
+          "seconsTitle": "",
+          "paragraph": "Vladimir was born on November 26, 1930 in the city of Orsha (now in the Vitebsk region, Belarus) in a family of intellectuals. His father, Semyon Timofeevich, worked as a budget inspector in the Orsha district financial department. Mother, Nadezhda Vasilyevna, graduated from the Mogilev Mariinsky gymnasium, worked for a while as a teacher at a rural school near Rogachev, after marriage she took up housekeeping."
+        },
+        {
+          "firstTitle": "GPW period",
+          "seconsTitle": "",
+          "eventDate": "1941 - 1944",
+          "paragraph": "IDuring the Great Patriotic War, he was evacuated with his family in Moscow, in the Ryazan region, in the vicinity of Kungur in the Urals, later in Orenburg and Kiev. In 1944, he returned to Orsha, where he received secondary education."
+        },
+        {
+          "firstTitle": "Creative debut",
+          "seconsTitle": "",
+          "eventDate": "1951",
+          "paragraph": "He made his debut as a poet in 1951 — he published two poems in the Orsha district newspaper \"Lenin's Appeal\": \"There will be a canal here\" (in Russian) and \"Yakub Kolas\" (in Belarusian)."
+        },
+        {
+          "firstTitle": "Labor activity",
+          "seconsTitle": "",
+          "eventDate": "1954 - 1958",
+          "paragraph": "In 1954-1956 he worked as a school teacher of Russian language and literature in the village of Lesovichi (Tarashchansky district of Kiev region of Ukraine), and in 1956-1958 — in his hometown, Orsha."
+        },
+        {
+          "firstTitle": "Death",
+          "seconsTitle": "",
+          "eventDate": "25.07.1984",
+          "paragraph": "Vladimir Korotkevich died on July 25, 1984. He was buried at the Eastern graveyard in Minsk."
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "writer": "bogdanovich",
+    "dob": "27.11.1891 - 12.05.1917",
+    "mainimg": "/pictures/BagdanovichMain.jpg",
+    "ytlink": "https://www.youtube.com/embed/ASaN7iVmR2I",
+    "galleryList": [
+      "/pictures/bagdanovichGallery/1.jpg",
+      "/pictures/bagdanovichGallery/2.jpg",
+      "/pictures/bagdanovichGallery/3.jpg",
+      "/pictures/bagdanovichGallery/4.jpg",
+      "/pictures/bagdanovichGallery/5.jpg"
+    ],
+    "PlaceLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184632.2278305333!2d25.1129524375164!3d54.700802087264194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dd93fb5c6408f5%3A0x400d18c70e9dc40!2z0JLQuNC70YzQvdGO0YEsINCS0LjQu9GM0L3RjtGB0YHQutC-0LUg0LPQvtGA0L7QtNGB0LrQvtC1INGB0LDQvNC-0YPQv9GA0LDQstC70LXQvdC40LUsINCb0LjRgtCy0LA!5e1!3m2!1sru!2sby!4v1669970896912!5m2!1sru!2sby",
+    "ru": {
+      "title": "Максим Адамович Богданович",
+      "image": "BagdanovichMain",
+      "histories": [
+        {
+          "eventDate": "27.11.1891",
+          "firstTitle": "День рождения писателя",
+          "seconsTitle": "",
+          "paragraph": "Первенец Вадим родился 6 (18) марта 1890 года, Максим — 27 ноября (9 декабря) 1891 года в 9 часов вечера."
+        },
+        {
+          "firstTitle": "Учёба в гимназии",
+          "seconsTitle": "",
+          "eventDate": "1902 - 1911",
+          "paragraph": "В 1902 году Максим поступил в Нижегородскую мужскую гимназию. Во время Революции 1905 года принимает участие в ученических и студенческих демонстрациях, за что получает аттестацию «неблагонадёжного ученика»."
+        },
+        {
+          "firstTitle": "Первое творчество",
+          "seconsTitle": "",
+          "eventDate": "1907",
+          "paragraph": "1907 год считается началом литературной деятельности Максима Богдановича. Его первым значительным художественным произведением был рассказ «Музы́ка» на белорусском языке, который сразу же напечатала «Наша нива»."
+        },
+        {
+          "firstTitle": "Учёба в лицее",
+          "seconsTitle": "",
+          "eventDate": "1911 - 1916",
+          "paragraph": "В 1911 году Максим Богданович намеревался поступить на Филологический факультет Петербургского университета, но из-за недостатка средств и сырого климата столицы, возвращается в Ярославль, поступив в Демидовский юридический лицей."
+        },
+        {
+          "firstTitle": "Последний год",
+          "seconsTitle": "",
+          "eventDate": "1916",
+          "paragraph": "Летом 1916 года, окончив лицей, Максим Богданович вернулся в Минск (он уже давно мечтал о возвращении на родную землю), где жил на квартире Змитрока Бядули. Хотя он был уже тяжело болен, но много работал в Минской губернском продовольственном комитете и в Белорусском комитете помощи жертвам войны, а свободное время отдавал литературному творчеству. Организует кружки молодёжи, которым старается придать общественно-просветительный и национально-революционный характер."
+        },
+        {
+          "firstTitle": "Смерть",
+          "seconsTitle": "",
+          "eventDate": "12.05.1917",
+          "paragraph": "Умер Максим Богданович на рассвете 13 (25) мая 1917 года в возрасте 25 лет."
+        }
+      ]
+    },
+    "en": {
+      "title": "Maksim Adamovich Bogdanovich",
+      "image": "BagdanovichMain",
+      "histories": [
+        {
+          "eventDate": "27.11.1891",
+          "firstTitle": "Birth",
+          "seconsTitle": "",
+          "paragraph": "The firstborn Vadim was born on March 6 (18), 1890, Maxim — on November 27 (December 9), 1891 at 9 pm."
+        },
+        {
+          "firstTitle": "Studying at the gymnasium",
+          "seconsTitle": "",
+          "eventDate": "1902 - 1911",
+          "paragraph": "In 1902, Maxim entered the Nizhny Novgorod men's Gymnasium. During the Revolution of 1905, he took part in student and student demonstrations, for which he received the certification of an \"unreliable student\"."
+        },
+        {
+          "firstTitle": "The first creativity",
+          "seconsTitle": "",
+          "eventDate": "1907",
+          "paragraph": "1907 is considered the beginning of Maxim Bogdanovich's literary activity. His first significant work of fiction was the short story \"Music\" in the Belarusian language, which was immediately published by Nasha Niva."
+        },
+        {
+          "firstTitle": "Studying at the lyceum",
+          "seconsTitle": "",
+          "eventDate": "1911 - 1916",
+          "paragraph": "In 1911, Maxim Bogdanovich intended to enter the Philological Faculty of St. Petersburg University, but due to lack of funds and the damp climate of the capital, he returned to Yaroslavl, enrolling in the Demidovsky Law Lyceum."
+        },
+        {
+          "firstTitle": "Last Year",
+          "seconsTitle": "",
+          "eventDate": "1916",
+          "paragraph": "In the summer of 1916, after graduating from the Lyceum, Maxim Bogdanovich returned to Minsk (he had long dreamed of returning to his native land), where he lived in the apartment of Zmitrok Byaduli. Although he was already seriously ill, he worked a lot in the Minsk provincial food committee and in the Belarusian committee for assistance to war victims, and devoted his free time to literary creativity. He organizes youth circles, which he tries to give a public-educational and national-revolutionary character."
+        },
+        {
+          "firstTitle": "Death",
+          "seconsTitle": "",
+          "eventDate": "12.05.1917",
+          "paragraph": "Maxim Bogdanovich died at dawn on May 13 (25), 1917 at the age of 25."
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "writer": "melez",
+    "dob": "08.02.1921 - 09.08.1976",
+    "mainimg": "/pictures/MelezMain.jpg",
+    "ytlink": "https://www.youtube.com/embed/NwV8EoU_14M",
+    "galleryList": [
+      "/pictures/melezGallery/1.jpg",
+      "/pictures/melezGallery/2.jpg",
+      "/pictures/melezGallery/3.jpg",
+      "/pictures/melezGallery/4.jpg",
+      "/pictures/melezGallery/5.jpg"
+    ],
+    "PlaceLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2459.9681273179276!2d29.661072334618883!3d51.93453491480222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88cecd7b6c3df812!2zNTHCsDU2JzA0LjMiTiAyOcKwMzknNTYuMCJF!5e0!3m2!1sru!2sby!4v1670265588423!5m2!1sru!2sby\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade",
+    "ru": {
+      "title": "Иван Павлович Мележ",
+      "image": "MelezMain",
+      "histories": [
+        {
+          "eventDate": "08.02.1921",
+          "firstTitle": "День рождения писателя",
+          "seconsTitle": "",
+          "paragraph": "Родился в крестьянской семье, земле было мало. Отец — Павел Федорович, делал гонта, деже, цабэркі. Мать — Мария Денисовна, родом из Каранёўкі, знала много народных песен и любила петь. Дети сызмальства втягивались в работу. У Ивана было обычное деревенское детство и юность, с пяти лет пас свиней, после овец, телят, корову, позднее водил в ночное коня."
+        },
+        {
+          "firstTitle": "Первое творчество",
+          "seconsTitle": "",
+          "eventDate": "1939 - 1944",
+          "paragraph": "Дебютировал в печати стихотворением «Родине» в газете «Красная смена» в 1939 году, прозой на русском языке — рассказом «Последняя операция» — в газете «Бугурусланская правда» в 1943 году, прозой на белорусском языке — рассказом «Встреча в больнице» — в газете «Звезда» за 25 ноября 1944 года."
+        },
+        {
+          "firstTitle": "Образование",
+          "seconsTitle": "",
+          "eventDate": "1938 - 1945",
+          "paragraph": "В 1938 году окончил среднюю школу в местечке Хойники. Во время учебы Мележ много рисует и в будущем хочет стать художником.С ноября 1942 года преподавал военную подготовку и заочно учился на литературном факультете Молдавского пединститута. В 1943-1944 годах преподавал военную подготовку в Белорусском государственном университете, который находился в то время под Москвой. В 1945 заочно заканчивает философский факультет БГУ. Одновременно с учебой работает в журнале “Полымя”. Закончил аспирантуру и устроился работать в БГУ преподавателем беларусской литературы."
+        },
+        {
+          "firstTitle": "Место деятельности",
+          "seconsTitle": "",
+          "eventDate": "1944",
+          "paragraph": "В 1944 переехал в Минск"
+        },
+        {
+          "firstTitle": "Смерть",
+          "seconsTitle": "",
+          "eventDate": "09.08.1976",
+          "paragraph": "Умер 9 августа 1976 года в 55 лет и похоронен на Восточном кладбище в Минске."
+        }
+      ]
+    },
+    "en": {
+      "title": "Ivan Pavlovich Melezh",
+      "image": "MelezMain",
+      "histories": [
+        {
+          "eventDate": "08.02.1921",
+          "firstTitle": "Birth",
+          "seconsTitle": "",
+          "paragraph": "Born in the peasant family, lack of land. Pavel Fedorovich was his father, made shingles, deje, rye. Maria Denisovna was his mother, originally from Karanevka, knew a lot of folk songs and loved to sing. Children from early years were involved in the work. Ivan had the usual countryside childhood and adolescence, from the age of five herded pigs, after sheeps, calves, cows, later herding a horse at night."
+        },
+        {
+          "firstTitle": "First steps",
+          "seconsTitle": "",
+          "eventDate": "1939 - 1944",
+          "paragraph": "He made his debut with the poem “Rodina” in the newspaper “Red shift” in 1939, prose in Russian – The story “The Last operation in the newspaper – “Buguruslandskaya Pravda” in 1943, prose in belarusian – the story “Meeting at the hospital” – int the newspaper “Zvezda” for November 25, 1944."
+        },
+        {
+          "firstTitle": "Study",
+          "seconsTitle": "",
+          "eventDate": "1938 - 1945",
+          "paragraph": "In 1938 he graduated from high school in the town of Khoiniki. During his studies, Melezh draws a lot and wants to become an artist in the future. Since November 1942, he taught military training and studied in absentia at the literary faculty of the Moldovan Pedagogical Institute. In 1943-1944, he taught military training at the Belarusian State University, which was located near Moscow at that time. In 1945, he graduated from the Philosophy Faculty of BSU in absentia. Simultaneously with his studies, he works in the magazine “Polumya\". He graduated from graduate school and got a job at BSU as a teacher of Belarusian literature."
+        },
+        {
+          "firstTitle": "Place of activity",
+          "seconsTitle": "",
+          "eventDate": "1944",
+          "paragraph": "In 1944 he moved to Minsk."
+        },
+        {
+          "firstTitle": "Death",
+          "seconsTitle": "",
+          "eventDate": "09.08.1976",
+          "paragraph": "He died on August 9, 1976 at the age of 55 and was buried at the Eastern graveyard in Minsk."
+        }
+      ]
+    }
+  }
+]
+
+
+
